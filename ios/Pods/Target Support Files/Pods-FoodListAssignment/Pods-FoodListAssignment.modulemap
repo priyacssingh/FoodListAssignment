@@ -1,0 +1,6 @@
+module Pods_FoodListAssignment {
+  umbrella header "Pods-FoodListAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
